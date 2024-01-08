@@ -32,7 +32,7 @@ body {
   display: inline-block;
   flex-grow: 1;
 }
-.adding-wrapper {
+.task-row-wrapper {
   display: flex;
 }
 ul {
