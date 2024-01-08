@@ -18,11 +18,11 @@ body {
 }
 
 @media (max-width: 768px) {
-  .header {
+  .aaa {
     text-align: center;
   }
 }
-.main-page {
+.centered-main-page-element {
   display: block;
   width: 500px;
   margin: 0 auto 0;

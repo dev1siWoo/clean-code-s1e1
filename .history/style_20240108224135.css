@@ -10,19 +10,19 @@ body {
   display: block;
   text-align: right;
 }
-.header img {
+.aaa img {
   width: 100%;
 }
-.header .link {
+.aaa .more-inf {
   font-family: fantasy, cursive;
 }
 
 @media (max-width: 768px) {
-  .header {
+  .aaa {
     text-align: center;
   }
 }
-.main-page {
+.centered-main-page-element {
   display: block;
   width: 500px;
   margin: 0 auto 0;
