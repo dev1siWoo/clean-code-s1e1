@@ -161,11 +161,11 @@
   display: none;
 }
 
-.edit .input_edit {
+.task_edit юinput_edit {
   display: inline-block;
   width: 224px;
 }
 
-.edit .title {
+.list-item.edit-mode .label {
   display: none;
 }

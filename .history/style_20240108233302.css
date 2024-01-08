@@ -157,15 +157,15 @@
 }
 
 /* Edit Task */
-.input_edit {
+.list-item .input[type="text"] {
   display: none;
 }
 
-.edit .input_edit {
+.list-item.edit-mode .input[type="text"] {
   display: inline-block;
   width: 224px;
 }
 
-.edit .title {
+.list-item.edit-mode .label {
   display: none;
 }

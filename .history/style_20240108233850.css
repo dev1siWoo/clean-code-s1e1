@@ -161,7 +161,7 @@
   display: none;
 }
 
-.edit .input_edit {
+.task_edit .input_edit {
   display: inline-block;
   width: 224px;
 }
