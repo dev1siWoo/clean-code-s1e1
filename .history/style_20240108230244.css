@@ -165,6 +165,6 @@
   width: 224px;
 }
 
-.list-item.edit-mode .label {
+ul li.edit-mode label {
   display: none;
 }

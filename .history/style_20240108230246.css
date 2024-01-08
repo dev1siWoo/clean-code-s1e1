@@ -165,6 +165,6 @@
   width: 224px;
 }
 
-.list-item.edit-mode .label {
+.list-item.edit-mode label {
   display: none;
 }

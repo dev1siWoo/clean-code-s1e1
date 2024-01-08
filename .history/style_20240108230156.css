@@ -145,26 +145,26 @@
   transition: transform 200ms ease-in;
 }
 
-.delete-img:hover {
+button.delete img:hover {
   transform: rotateZ(0);
 }
 
 /* Completed */
-#completed-tasks .label {
+ul#completed-tasks label {
   text-decoration: line-through;
   color: #888;
 }
 
 /* Edit Task */
-.list-item .input[type="text"] {
+ul li input[type="text"] {
   display: none;
 }
 
-.list-item.edit-mode .input[type="text"] {
+ul li.edit-mode input[type="text"] {
   display: inline-block;
   width: 224px;
 }
 
-.list-item.edit-mode .label {
+ul li.edit-mode label {
   display: none;
 }
